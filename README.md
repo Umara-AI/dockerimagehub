@@ -1,1 +1,1 @@
-## This project shows how to work with MLOPS
+## This project shows how to work with MLOPS and DockerFile
